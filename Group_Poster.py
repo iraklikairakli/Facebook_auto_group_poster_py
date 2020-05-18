@@ -1,6 +1,4 @@
 from time import sleep
-from selenium import webdriver
-from selenium.webdriver.chrome.options import Options
 import selenium as se
                                                                                   #Now this code working as background Pl
 options = se.webdriver.ChromeOptions()
